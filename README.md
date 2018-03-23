@@ -1,1 +1,3 @@
-# mobile_mps_sdk_doc
+### MPS SDK
+
+This repo contains the MPS SDK documentation.

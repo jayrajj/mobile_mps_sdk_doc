@@ -1,0 +1,10 @@
+site_name: MPS Developer's Guide
+pages:
+  - Project Setup: index.md
+  - SDK Initialization: 2_sdk_init.md
+  - Request Banner Programmatically: 3_request_banner_programmatically.md
+  - Request Banner with XML: 4_banner_xml.md
+  - Request Interstitial Ad: 5_interstitial.md
+  - Test App & Installation: 6_test_app.md
+theme_dir: readthedocs
+use_directory_urls: false
